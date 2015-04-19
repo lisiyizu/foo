@@ -4,6 +4,7 @@
    "description": "foo module",
    "main": "index.js",
    "files": [
+     "images/q/*.png"
      "index.css",
      "index.js",
      "template.html",
